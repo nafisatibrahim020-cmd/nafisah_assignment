@@ -1,0 +1,2 @@
+__Creating Database
+CREATE DATABASE QuickMart
